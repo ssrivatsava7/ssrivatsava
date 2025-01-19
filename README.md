@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ssrivatsava7
+- 👋 Hi, I’m @ssrivatsava
 - 😄 Pronouns: She/Her
 - 👀 Innovating at the intersection of cloud, AI, and software
 - 🌱 I’m currently a graduate!!
